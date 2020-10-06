@@ -41,7 +41,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "inhwanko@uw.edu"
-  github: "https://github.com/inhwanko/"
+  github: "inhwanko"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -58,7 +58,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: "https://scholar.google.com/citations?user=3o6WHwgAAAAJ&hl=ko"
+  google-scholar: "citations?user=3o6WHwgAAAAJ&hl=ko"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
