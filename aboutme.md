@@ -16,4 +16,4 @@ I like to ponder on these questions:
 - Under what conditions do social movements change the behavior of political actors (government, congress, and court)?
 - How to measure the level of party polarization from legislative speeches and bills?
 
-Click [here]() to know more about my intended doctoral thesis topic: climate clubs
+Click [here](https://inhwanko.github.io/climateclub) to know more about my intended doctoral thesis topic: climate clubs
