@@ -8,7 +8,7 @@ My intended research topic for a doctoral dissertation is climate clubs. I defin
 
 Here are some useful articles & books which talk about climate clubs:
 
-\tiny
+<font size="2">
 - Bagozzi, Benjamin E. 2015. “The Multifaceted Nature of Global Climate Change Negotiations.” Review of International Organization 10: 439-64.  
 - Barrett, Scott. 2003. Environment and Statecraft: The Strategy of Environmental Treaty Making. New York, NY: Oxford University Press.     
 - **Buchanan, James M. 1965. “An Economic Theory of clubs.” Economica 32, no.125 (Feb): 1-14.**
@@ -31,3 +31,4 @@ Here are some useful articles & books which talk about climate clubs:
 - Sprinz, Detlef and Tapani Vaahtoranta. 1994. “The Interest-based Explanation of International Environmental Policy.” International Organization 48, no.1 (Winter): 77-105.   
 - Sprinz, Detlef and Håkon Sælen, Arild Underdal and Jon Hovi. 2018. “The Effectiveness of Climate Clubs under Donald Trump.” Climate Policy, doi: 10.1080/14693062.2017.1410090. 
 - Stavins, Robert. 1998. “What Can We Learn from the Grand Policy Experiment? Lessons from SO2 Allowance Trading.” Journal of Economic Perspectives 12, no,3 (Summer): 69-88.   
+</font>
