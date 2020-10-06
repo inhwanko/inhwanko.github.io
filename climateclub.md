@@ -1,5 +1,6 @@
 ---
 layout: page
+
 ---
 
 ### Climate Club Research Program
