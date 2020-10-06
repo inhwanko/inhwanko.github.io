@@ -7,7 +7,7 @@ layout: page
 My intended research topic for a doctoral dissertation is climate clubs. I define a climate club as a group of ambitious political and economic actors (not limited to state governments but including local governments, firms, NGOs, international organizations, etc.) which produce non-rivarly and exclusive "club goods" in return for their collective efforts to climate change response. Among various scholars who study this topic, I build on the literature on voluntary environmental program (VEP) initiated by [Potoski and Prakash (2013)](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-032211-211224) who emphasized the provision of public good (in their studies, mostly "reputational effects") for successful VEPs. Yet, I also resonate with those who stand on the tradition of "climate change as collective action problem" such as [Nordhaus (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.15000001) who stresses out the ability of climate clubs to penalize free-riding by their non-members. Both literature point to the fact that climate clubs will only thrive when the benefits of joining (i.e. club goods) exceed the costs of not joining (i.e. penalty for non-members). 
 
 Here are some useful articles & books which talk about climate clubs:
-```
+
 element {
  font-size: 75;
 - Bagozzi, Benjamin E. 2015. “The Multifaceted Nature of Global Climate Change Negotiations.” Review of International Organization 10: 439-64.  
@@ -33,4 +33,3 @@ element {
 - Sprinz, Detlef and Håkon Sælen, Arild Underdal and Jon Hovi. 2018. “The Effectiveness of Climate Clubs under Donald Trump.” Climate Policy, doi: 10.1080/14693062.2017.1410090. 
 - Stavins, Robert. 1998. “What Can We Learn from the Grand Policy Experiment? Lessons from SO2 Allowance Trading.” Journal of Economic Perspectives 12, no,3 (Summer): 69-88.   
 }
-```
