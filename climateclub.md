@@ -8,7 +8,7 @@ My intended research topic for a doctoral dissertation is climate clubs. I defin
 
 Here are some useful articles & books which talk about climate clubs:
 ```
-element{
+element {
  font-size: 75;
 - Bagozzi, Benjamin E. 2015. “The Multifaceted Nature of Global Climate Change Negotiations.” Review of International Organization 10: 439-64.  
 - Barrett, Scott. 2003. Environment and Statecraft: The Strategy of Environmental Treaty Making. New York, NY: Oxford University Press.     
