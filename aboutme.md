@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Personal Info
+subtitle: Inhwan Ko
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a Ph.D. student in political science at the University of Washington, Seattle. I graduated from Yonsei University in South Korea where I was born and raised. My research interests are international environmental cooperation, political economy of climate change, and social (justice) movement. My methodological focuses are panel data analysis and text-as-data. Currently, I'm working with [Prof. Aseem Prakash](https://www.polisci.washington.edu/people/aseem-prakash) and a Duck Familiy Graduate Fellow at [the Center for Environmental Politics](https://depts.washington.edu/envirpol/). 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I like to ponder on these questions:
 
-What else do you need?
+- How do goverments translate global public goods (e.g. greenhouse gas reduction) into their local benefits (e.g. job creation, economic boost, votes, etc)?
+- How do political and economic actors influence their governments (and foreign ones) to adopt more active (or passive) climate change policy?
+- Among what political and economic actors does the cooperation on climate technology arise and why?
+- Why do new political groups in climate negotiation (e.g. AILAC) arise and to what extent are they different from (similiar with) conventional regional bloc-based groups (e.g. EU)?
+- Why do governments choose a specific policy design for pricing carbon, and how do these variants of carbon pricing vary in their performance?
+- Under what conditions do social movements change the behavior of political actors (government, congress, and court)?
+- How to measure the level of party polarization from legislative speeches and bills?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Click [here]() to know more about my intended doctoral thesis topic: climate clubs
