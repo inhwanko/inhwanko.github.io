@@ -14,8 +14,9 @@ author: Inhwan Ko
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Climate Club Research: "climateclub"
+  Home: "https://inhwanko.github.io/"
+  About: "aboutme"
+  Climate Club Research: "climateclub.md"
   Resources:
     - Bigwave Researcher Network: "https://github.com/inhwanko/bigwave_rn"
     - Bigwave Main Page: "https://www.bigwave4cc.org/"
