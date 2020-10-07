@@ -1,5 +1,6 @@
 ---
 layout: page
+subtitle: climate club research program
 ---
 
 ### Climate Club Research Program
