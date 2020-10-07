@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 ---
 
 ### Climate Club Research Program
