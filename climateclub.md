@@ -1,11 +1,10 @@
 ---
-layout: page
-
+layout:page
 ---
 
 ### Climate Club Research Program
 
-My intended research topic for a doctoral dissertation is climate clubs. I define a climate club as a group of ambitious political and economic actors (not limited to state governments but including local governments, firms, NGOs, international organizations, etc.) which produce non-rivarly and exclusive "club goods" in return for their collective efforts to climate change response. Among various scholars who study this topic, I build on the literature on voluntary environmental program (VEP) initiated by [Potoski and Prakash (2013)](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-032211-211224) who emphasized the provision of public good (in their studies, mostly "reputational effects") for successful VEPs. Yet, I also resonate with those who stand on the tradition of "climate change as collective action problem" such as [Nordhaus (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.15000001) who stresses out the ability of climate clubs to penalize free-riding by their non-members. Both literature point to the fact that climate clubs will only thrive when the benefits of joining (i.e. club goods) exceed the costs of not joining (i.e. penalty for non-members). 
+My intended research topic for a doctoral dissertation is climate clubs. I define a climate club as a group of ambitious political and economic actors (not limited to state governments but including local governments, firms, NGOs, international organizations, etc.) which produces non-rivarly and exclusive "club goods" in return for their collective efforts to climate change response. Among various scholars who study this topic, I build on the literature on voluntary environmental program (VEP) initiated by [Potoski and Prakash (2013)](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-032211-211224) who emphasized the provision of public good (in their studies, mostly "reputational effects") for successful VEPs. Yet, I also resonate with those who stand on the tradition of "climate change as collective action problem" such as [Nordhaus (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.15000001) who stresses out the ability of climate clubs to penalize free-riding by their non-members. Both literature point to the fact that climate clubs will only thrive when the benefits of joining (i.e. club goods) exceed the costs of not joining (i.e. penalty for non-members). 
 
 Here are some useful articles & books which talk about climate clubs:
 
