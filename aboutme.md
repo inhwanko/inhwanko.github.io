@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Info
+title: personal info
 subtitle: Inhwan Ko
 ---
 
