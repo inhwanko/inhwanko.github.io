@@ -27,11 +27,11 @@ Keywords: climate change negotiation, UNFCCC, negotiation bloc, North-South, CBD
 
 ### Figure 1. Point Estimates of Positions estimated from Country Bloc ADP Statements
 
-![alt text](https://github.com/inhwanko/inhwanko.github.io/blob/master/_posts/score_groups.JPG)  
+![alt text](/assets/img/score_groups.JPG)  
 
 ### Figure 2. Time-Series Variation of Positions by Country Groups, ADP 2-1 to 2-12, with 95% Confidence Intervals (by Bootstrap)
 
-![alt text](https://github.com/inhwanko/inhwanko.github.io/blob/master/_posts/score_time.JPG)    
+![alt text](/assets/img/score_time.JPG)    
 
 
 In two figures above, scores represent the position of country blocs toward the UNFCCC principle of CBDR-RC. Negative values indicate the position toward differentiated responsibilities across countries depending on their historical GHG emissions, and positive values indicate the position toward shared responsibilities regardless thereof. Wordfish uses unsupervised methods to scale these positions based on the word counts. Words associated with negative values are "differentiation," "commitments," "mandate," "kyoto," (Kyoto Protocol), while those associated with positive values are "shared," "collective," "balanced," "threats," "loss" and "damage."
