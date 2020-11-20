@@ -3,7 +3,6 @@ layout: post
 title: Climate Negotiation Text Project
 tags: [test]
 comments: true
-thumbnail-img: /asset/img/score-time.JPG
 ---
 
 
