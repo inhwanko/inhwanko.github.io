@@ -18,7 +18,7 @@ navbar-links:
   About: "aboutme"
   Climate Club Research: "climateclub/"
   Current Research Projects:
-    - Climate Negotiation Text Project: "_posts/currentproj/2020-11-19-climatenego.md"
+    - Climate Negotiation Text Project: "_posts/2020-11-19-climatenego.md/"
   Resources:
     - Bigwave Researcher Network: "https://github.com/inhwanko/bigwave_rn"
     - Bigwave Main Page: "https://www.bigwave4cc.org/"
